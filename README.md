@@ -7,6 +7,7 @@
 ### Description
 
 This program is for a small business it can help it to manage tasks assigned to each member of the team.
+The program is written in Python.
 
 ### Functionality
 
