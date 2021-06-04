@@ -10,7 +10,7 @@ This program is for a small business it can help it to manage tasks assigned to 
 
 ### Functionality
 
-This program works with two text files, user.txt and tasks.txt
+This program works with four text files, user.txt, user_overview.txt, tasks.txt and task_overview.txt 
 
 tasks.txt:
 Stores a list of all the tasks that the team is working on.
@@ -19,6 +19,9 @@ The data for each task is stored on a separate line in the text file.
 user.txt:
 Stores the username and password for each user that has
 permission to use your program (task_manager.py).
+
+When the user chooses to generate reports, two text files, called
+task_overview.txt and user_overview.txt are created.
 
 Program on startup:
 
@@ -39,6 +42,7 @@ r - register user,
 a - add task, 
 va - view all tasks, 
 vm - view my tasks, 
+gr - generate reports, 
 ds - display statistics, 
 e - exit
 
@@ -83,5 +87,5 @@ window separate to the shell window.
 
 ### Contributions
 
-This program was created by me as my third Capstone Project for the sofware engineering bootcamp I'm enrolled in. 
+This program was created by me as my last level 1 Capstone Project for the sofware engineering bootcamp I'm enrolled in. 
 This program has been reviewed and commented on by the Hyperion Development Sofware Engineering Bootcamp mentors.
