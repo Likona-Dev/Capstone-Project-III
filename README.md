@@ -83,5 +83,5 @@ window separate to the shell window.
 
 ### Contributions
 
-This program was created by me as the my third Capstone Project for the sofware engineering bootcamp I'm enrolled in. 
+This program was created by me as my third Capstone Project for the sofware engineering bootcamp I'm enrolled in. 
 This program has been reviewed and commented on by the Hyperion Development Sofware Engineering Bootcamp mentors.
