@@ -30,16 +30,16 @@ appropriate credentials.
 A menu is displayed once the user has successfully logged in.
 
 **Standard Account Menu:**
-a - add task
-vm - view my tasks
+a - add task, 
+vm - view my tasks, 
 e - exit
 
 **Admin Account Menu:**
-r - register user
-a - add task
-va - view all tasks
-vm - view my tasks
-s - display statistics
+r - register user, 
+a - add task, 
+va - view all tasks, 
+vm - view my tasks, 
+ds - display statistics, 
 e - exit
 
 **Data stored in each line(tasks.txt):**
